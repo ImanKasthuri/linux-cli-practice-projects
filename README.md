@@ -1,5 +1,3 @@
-# linux-cli-practice-projects
-
 # Linux File Management Practice
 
 - This project demonstrates basic Linux command-line operations for creating, modifying, copying, moving, searching, and removing files and folders.
