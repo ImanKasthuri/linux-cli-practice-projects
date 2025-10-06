@@ -5,7 +5,7 @@
 - This project demonstrates basic Linux command-line operations for creating, modifying, copying, moving, searching, and removing files and folders.
   It follows the same structure as the Google IT Support "Creating, Modifying, and Removing Files and Folders in Linux" lab.
 
-# What I Did
+## What I Did
 
 ## Checked my current directory
 
